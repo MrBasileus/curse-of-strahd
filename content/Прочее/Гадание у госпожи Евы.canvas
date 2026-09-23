@@ -3,7 +3,7 @@
     {
       "id": "e190b5e3869156fe",
       "type": "file",
-      "file": "curse-of-strahd/_media/images/anarchist.png",
+      "file": "../_media/images/anarchist.png",
       "x": -180,
       "y": -228,
       "width": 286,
@@ -12,7 +12,7 @@
     {
       "id": "d7a08763cbb2e3b2",
       "type": "file",
-      "file": "curse-of-strahd/_media/images/innocent.png",
+      "file": "../_media/images/innocent.png",
       "x": 140,
       "y": -228,
       "width": 286,
@@ -21,7 +21,7 @@
     {
       "id": "b08e9085abf592ac",
       "type": "file",
-      "file": "curse-of-strahd/_media/images/monk.png",
+      "file": "../_media/images/monk.png",
       "x": 460,
       "y": -228,
       "width": 286,
@@ -30,7 +30,7 @@
     {
       "id": "a09ec51cf2369e20",
       "type": "file",
-      "file": "curse-of-strahd/_media/images/traitor.png",
+      "file": "../_media/images/traitor.png",
       "x": 140,
       "y": -680,
       "width": 286,
@@ -39,7 +39,7 @@
     {
       "id": "6a6de976722fe8c3",
       "type": "file",
-      "file": "curse-of-strahd/_media/images/raven.png",
+      "file": "../_media/images/raven.png",
       "x": 140,
       "y": 220,
       "width": 286,
@@ -66,7 +66,7 @@
     {
       "id": "820ca9961201954f",
       "type": "file",
-      "file": "curse-of-strahd/_media/images/torturer.png",
+      "file": "../_media/images/torturer.png",
       "x": -894,
       "y": -80,
       "width": 286,
