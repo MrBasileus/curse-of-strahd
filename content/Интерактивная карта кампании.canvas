@@ -1,0 +1,208 @@
+{
+  "nodes": [
+    {
+      "id": "fc374f062967500b",
+      "type": "group",
+      "x": -2209,
+      "y": 387,
+      "width": 300,
+      "height": 300,
+      "label": "Группа без названия"
+    },
+    {
+      "id": "1f4063aa5c5c3288",
+      "type": "text",
+      "text": "[[Озеро Тсер]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1660,
+      "y": 910,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "835a7f1230076352",
+      "type": "text",
+      "text": "[[Лагерь возле Валакии]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2465,
+      "y": 687,
+      "width": 165,
+      "height": 61
+    },
+    {
+      "id": "0ac3cb45a31f1ec3",
+      "type": "text",
+      "text": "[[Замок Рейвенлофт]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1480,
+      "y": 628,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "84a991d66d7cd2bc",
+      "type": "text",
+      "text": "[[Баровия]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1280,
+      "y": 910,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "7439b0a0c8aa53e3",
+      "type": "text",
+      "text": "[[Особняк Лугоши]]",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -1220,
+      "y": 717,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "0d4c2cc6651cce67",
+      "type": "text",
+      "text": "[[Старая мельница]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2220,
+      "y": 688,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "8688ee35bc90e1f0",
+      "type": "text",
+      "text": "[[Озеро Зарвич]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2250,
+      "y": 370,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "ed3de06aaea3c7b0",
+      "type": "text",
+      "text": "[[Валакия]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2380,
+      "y": 370,
+      "width": 110,
+      "height": 60
+    },
+    {
+      "id": "77ceeb4fab0a676c",
+      "type": "file",
+      "file": "Личное/D&D/Проклятье Страда/_media/images/Карта Баровии.png",
+      "x": -3360,
+      "y": -9,
+      "width": 2370,
+      "height": 1333
+    },
+    {
+      "id": "789ede293037c9b7",
+      "type": "text",
+      "text": "[[Гора Бараток]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2250,
+      "y": 140,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "c212f0446e854b2a",
+      "type": "text",
+      "text": "[[Аргинвостхольт]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2645,
+      "y": 940,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "fa6fdd59d147c798",
+      "type": "text",
+      "text": "[[Холм Былого]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -3220,
+      "y": 1040,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "e2b621851f32e30b",
+      "type": "text",
+      "text": "[[Винный волшебник]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -3260,
+      "y": 780,
+      "width": 130,
+      "height": 60
+    },
+    {
+      "id": "197b0c8cc1562e8d",
+      "type": "text",
+      "text": "[[Креск]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -3020,
+      "y": 340,
+      "width": 100,
+      "height": 60
+    },
+    {
+      "id": "dc10eaff4c9bb68d",
+      "type": "text",
+      "text": "[[Аббатство в Креске]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2920,
+      "y": 140,
+      "width": 135,
+      "height": 60
+    },
+    {
+      "id": "b63afa915ab3a5f0",
+      "type": "text",
+      "text": "[[Лагерь у озера Тсер]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1860,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [],
+  "metadata": {
+    "version": "1.0-1.0",
+    "frontmatter": {}
+  }
+}
