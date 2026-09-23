@@ -10,9 +10,18 @@
       "label": "Группа без названия"
     },
     {
+      "id": "77ceeb4fab0a676c",
+      "type": "file",
+      "file": "_media/images/Карта Баровии.png",
+      "x": -3360,
+      "y": -9,
+      "width": 2370,
+      "height": 1333
+    },
+    {
       "id": "1f4063aa5c5c3288",
       "type": "text",
-      "text": "[[Озеро Тсер]]",
+      "text": "Озеро Тсер",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -24,7 +33,7 @@
     {
       "id": "835a7f1230076352",
       "type": "text",
-      "text": "[[Лагерь возле Валакии]]",
+      "text": "Лагерь возле Валакии",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -36,7 +45,7 @@
     {
       "id": "0ac3cb45a31f1ec3",
       "type": "text",
-      "text": "[[Замок Рейвенлофт]]",
+      "text": "Замок Рейвенлофт",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -48,7 +57,7 @@
     {
       "id": "84a991d66d7cd2bc",
       "type": "text",
-      "text": "[[Баровия]]",
+      "text": "Баровия",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -60,7 +69,7 @@
     {
       "id": "7439b0a0c8aa53e3",
       "type": "text",
-      "text": "[[Особняк Лугоши]]",
+      "text": "Особняк Лугоши",
       "styleAttributes": {
         "textAlign": "center",
         "border": null
@@ -73,7 +82,7 @@
     {
       "id": "0d4c2cc6651cce67",
       "type": "text",
-      "text": "[[Старая мельница]]",
+      "text": "Старая мельница",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -85,7 +94,7 @@
     {
       "id": "8688ee35bc90e1f0",
       "type": "text",
-      "text": "[[Озеро Зарвич]]",
+      "text": "Озеро Зарвич",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -97,7 +106,7 @@
     {
       "id": "ed3de06aaea3c7b0",
       "type": "text",
-      "text": "[[Валакия]]",
+      "text": "Валакия",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -105,20 +114,11 @@
       "y": 370,
       "width": 110,
       "height": 60
-    },
-    {
-      "id": "77ceeb4fab0a676c",
-      "type": "file",
-      "file": "_media/images/Карта Баровии.png",
-      "x": -3360,
-      "y": -9,
-      "width": 2370,
-      "height": 1333
-    },
+    }
     {
       "id": "789ede293037c9b7",
       "type": "text",
-      "text": "[[Гора Бараток]]",
+      "text": "Гора Бараток",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -130,7 +130,7 @@
     {
       "id": "c212f0446e854b2a",
       "type": "text",
-      "text": "[[Аргинвостхольт]]",
+      "text": "Аргинвостхольт",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -142,7 +142,7 @@
     {
       "id": "fa6fdd59d147c798",
       "type": "text",
-      "text": "[[Холм Былого]]",
+      "text": "Холм Былого",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -154,7 +154,7 @@
     {
       "id": "e2b621851f32e30b",
       "type": "text",
-      "text": "[[Винный волшебник]]",
+      "text": "Винный волшебник",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -166,7 +166,7 @@
     {
       "id": "197b0c8cc1562e8d",
       "type": "text",
-      "text": "[[Креск]]",
+      "text": "Креск",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -178,7 +178,7 @@
     {
       "id": "dc10eaff4c9bb68d",
       "type": "text",
-      "text": "[[Аббатство в Креске]]",
+      "text": "Аббатство в Креске",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -190,7 +190,7 @@
     {
       "id": "b63afa915ab3a5f0",
       "type": "text",
-      "text": "[[Лагерь у озера Тсер]]",
+      "text": "Лагерь у озера Тсер",
       "styleAttributes": {
         "textAlign": "center"
       },
